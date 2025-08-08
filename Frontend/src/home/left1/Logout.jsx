@@ -2,7 +2,7 @@ import React from 'react'
 
 const Logout = () => {
   return (
-     <div className="w-[10%]  bg-slate-950 text-white">
+     <div className="w-[4%]  bg-slate-950 text-white">
       Logout
     </div>
   )
