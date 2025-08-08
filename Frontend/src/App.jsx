@@ -5,8 +5,10 @@ import Right from './home/right/Right'
 const App = () => {
   return (
     <div>
-      <Left></Left>
-      <Right></Right>
+      <div className="flex h-screen">
+        <Left></Left>
+        <Right></Right>
+      </div>
     </div>
   )
 }
