@@ -8,7 +8,7 @@ const App = () => {
     <div>
        <div className="flex h-screen">
         <Left/>
-      <Right/>
+        <Right/>
       </div>
     </div>
   )
