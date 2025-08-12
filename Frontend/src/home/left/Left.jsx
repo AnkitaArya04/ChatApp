@@ -1,8 +1,10 @@
 import React from "react"
+import Search from "./Search"
 const Left = () => {
   return (
-    <div className="w-[30%] border border-white bg-black text-white ">
+    <div className="w-[30%] bg-black text-white ">
       left
+      <Search/>
     </div>
   )
 }
