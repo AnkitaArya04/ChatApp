@@ -2,7 +2,7 @@ import React from 'react'
 
 const Right = () => {
   return (
-    <div>
+    <div className='border border-black'>
       Right
     </div>
   )
